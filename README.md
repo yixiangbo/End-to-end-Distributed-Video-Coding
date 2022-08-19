@@ -1,1 +1,1 @@
-# image-pyram
+# End-to-end-Distributed-Video-Coding
